@@ -35,6 +35,7 @@ const Navbar = () => {
       href: "blog",
     },
     { name: "Contact", icon: <Mail className="w-5 h-5" />, href: "contact" },
+    { name: "Automate", icon: <Mail className="w-5 h-5" />, href: "automate" },
   ];
 
   return (
